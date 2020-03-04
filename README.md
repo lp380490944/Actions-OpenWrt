@@ -27,6 +27,7 @@ Build OpenWrt using GitHub Actions
 - [Cisco](https://www.cisco.com/)
 - [OpenWrt](https://github.com/openwrt/openwrt)
 - [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
+![Build OpenWrt](https://github.com/lp380490944/Actions-OpenWrt/workflows/Build%20OpenWrt/badge.svg)
 
 ## License
 
